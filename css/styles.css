@@ -1,11 +1,15 @@
 @charset "utf-8";
 body {
-    width: 90%;
-    margin: 0 auto;
-    max-width: 960px;
-    color: #1B1B1B;
-    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	width: 90%;
+	margin: 0 auto;
+	max-width: 960px;
+	color: #1B1B1B;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
+h1 {
+	color: teal;
+}
+
 .floatleft {
 	margin-right: 1em;
 	float: left;
